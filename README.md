@@ -1,5 +1,6 @@
-# Final Project for MUSA-550 Geo-Spatial Data Science
+# Final Project for MUSA-550 Geo-Spatial Data Science course
 
+Instructor: Nick Hands
 Team Partners: Surya Prabhakaran and Atharva Ranade
 
 Geo-Spatial Carbon Footprint Analysis of Truck vs Drone Deliveries studied in an urban and sub-urban condition.
@@ -12,4 +13,6 @@ https://suryajps.github.io/Spatial-Analysis-for-Drone-vs-Truck-Deliveries-/
 
 https://github.com/suryajps/Spatial-Analysis-for-Drone-vs-Truck-Deliveries-
 
+# Course Repository:
 
+https://github.com/MUSA-550-Fall-2020
