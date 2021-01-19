@@ -5,14 +5,14 @@ Instructor: Nick Hands <br />
 
 Geo-Spatial Carbon Footprint Analysis of Truck vs Drone Deliveries studied in an urban and sub-urban condition.
 
-# Github Pages Link:
+### Github Pages Link:
 
 https://suryajps.github.io/Spatial-Analysis-for-Drone-vs-Truck-Deliveries-/
 
-# Github Pages Repository
+### Github Pages Repository
 
 https://github.com/suryajps/Spatial-Analysis-for-Drone-vs-Truck-Deliveries-
 
-# Course Repository:
+### Course Repository:
 
 https://github.com/MUSA-550-Fall-2020
